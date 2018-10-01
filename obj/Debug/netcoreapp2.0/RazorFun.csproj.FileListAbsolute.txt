@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.pdb
